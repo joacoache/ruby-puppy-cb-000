@@ -16,7 +16,7 @@ class Dog
     @all.each {|i| puts i}
   end
 
-  
+
 
 
 
